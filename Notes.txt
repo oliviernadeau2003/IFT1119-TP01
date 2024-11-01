@@ -1,0 +1,29 @@
+
+
+	Assets :
+	
+	- https://assetstore.unity.com/packages/2d/characters/bolt-2d-littlewars-assets-pack-189896
+
+	- https://ragnapixel.itch.io/particle-fx
+
+	- https://pixabay.com/sound-effects/search/fire/
+
+
+	
+	Time Line : 
+
+	- Both soldier arrive walking (5-10 sec)
+
+	- Text animation (5 sec)
+
+	- Both castle are being built (10-15 sec) (Rotation + Scale + Opacity)
+
+	- Battle begins (make the sky color darker(simulating night time))
+
+	- 
+
+
+	* Add a little timer on bottom left
+
+
+	Spawn characters, make them spawn bases, make them fight, add explosions on red bases, make victory blue
